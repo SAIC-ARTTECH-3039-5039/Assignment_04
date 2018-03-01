@@ -1,0 +1,2 @@
+-   Put your TSNE image(s) in this directory and submit. That said typically you wouldn't want to store large binary files (images, videos, etc) on github, but it make the submission process much easier. :)
+-   Please do not upload images greater than 5 Megabytes each. You may need to resize with Photoshop.
